@@ -68,7 +68,7 @@
 [twitter]: https://twitter.com/lunado
 [youtube]: https://www.youtube.com/channel/UC6rJ3gCBxijS2F7IGEB2M_w
 [instagram]: https://www.instagram.com/jongewaard.dev/
-[linkedin]: https://www.linkedin.com/in/germanjongewaard/?locale=en_US
+[linkedin]: https://www.linkedin.com/in/germanjongewaard/?trk=public-profile-join-page
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
