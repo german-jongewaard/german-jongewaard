@@ -47,8 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/german-jongewaard)
-<!-- <img align="left" alt="Jongewaard Dev's GitHub Stats" src="https://github-readme-stats.german-jongewaard.vercel.app/api?username=german-jongewaard&show_icons=true&hide_border=true" /> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=german-jongewaard&show_icons=true&theme=radical)<!-- <img align="left" alt="Jongewaard Dev's GitHub Stats" src="https://github-readme-stats.german-jongewaard.vercel.app/api?username=german-jongewaard&show_icons=true&hide_border=true" /> -->
 
 </details>
 
