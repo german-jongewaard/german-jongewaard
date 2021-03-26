@@ -47,11 +47,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="german-jongewaard GitHub Stats" src="https://github-readme-stats.german-jongewaard.vercel.app/api?username=german-jongewaard&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jongewaard Dev's GitHub Stats" src="https://github-readme-stats.german-jongewaard.vercel.app/api?username=german-jongewaard&show_icons=true&hide_border=true" />
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=german-jongewaard&layout=compact)](https://github.com/german-jongewaard/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=german-jongewaard&layout=compact)](https://github.com/german-jongewaard)
 
 [website]: https://german-jongewaard.github.io/ 
 [twitter]: https://twitter.com/lunado 
