@@ -26,7 +26,7 @@
 <details>
   <summary>:zap:Jongewaard Dev GitHub Stats</summary>
 
-![Jongewaard Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=german-jongewaard&show_icons=true&theme=radical)<!-- <img align="left" alt="Jongewaard Dev's GitHub Stats" src="https://github-readme-stats.german-jongewaard.vercel.app/api?username=german-jongewaard&show_icons=true&hide_border=true" /> -->
+![Jongewaard Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=german-jongewaard&show_icons=true&theme=radical)<!-- <img align="left" alt="Jongewaard Dev's GitHub Stats" src="https://github-readme-stats.german-jongewaard.vercel.app/api?username=german-jongewaard&show_icons=true&hide_border=true" /> -->
 
 </details>
 
