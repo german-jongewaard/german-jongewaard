@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jongewaard dev GitHub Stats" src="https://github.com/german-jongewaard?tab=stars" />
+  <img align="left" alt="german-jongewaard GitHub Stats" src="https://github-readme-stats.german-jongewaard.vercel.app/api?username=german-jongewaard&show_icons=true&hide_border=true" />
 
 </details>
 
