@@ -1,4 +1,4 @@
-### Hi there, I'm Germán - [codeSTACKr][website] 👋
+### Hi there, I'm Germán - [Jongewaard Dev][website] 👋
 
 [![Website](https://german-jongewaard.github.io/)](https://german-jongewaard.github.io/)
 
