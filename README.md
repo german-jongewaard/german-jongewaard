@@ -51,8 +51,8 @@
 
 </details>
 
-[website]: https://german-jongewaard.github.io/ target="_blank"
-[twitter]: https://twitter.com/lunado target="_blank"
-[youtube]: https://www.youtube.com/channel/UC6rJ3gCBxijS2F7IGEB2M_w target="_blank"
-[instagram]: https://www.instagram.com/jongewaard.dev/ target="_blank"
-[linkedin]: https://www.linkedin.com/in/germanjongewaard/?trk=public-profile-join-page target="_blank"
+[website]: https://german-jongewaard.github.io/ 
+[twitter]: https://twitter.com/lunado 
+[youtube]: https://www.youtube.com/channel/UC6rJ3gCBxijS2F7IGEB2M_w 
+[instagram]: https://www.instagram.com/jongewaard.dev/ 
+[linkedin]: https://www.linkedin.com/in/germanjongewaard/?trk=public-profile-join-page
