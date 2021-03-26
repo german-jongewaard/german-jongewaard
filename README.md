@@ -1,6 +1,7 @@
 ### Hi there, I'm Germán - [Jongewaard Dev][website] 👋
 
-[![Website](https://german-jongewaard.github.io/)](https://german-jongewaard.github.io/)
+ [![Website](https://img.shields.io/website?label=german-jongewaard.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://german-jongewaard.github.io/)](https://german-jongewaard.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lunado?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lunado)
 
 ## I'm a Android Developer
 
@@ -8,12 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-[website]: https://german-jongewaard.github.io/
-[twitter]: https://twitter.com/lunado
-[youtube]: https://www.youtube.com/channel/UC6rJ3gCBxijS2F7IGEB2M_w
-[instagram]: https://www.instagram.com/jongewaard.dev/
-[linkedin]: https://www.linkedin.com/in/germanjongewaard/?locale=en_US
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+
 ### Connect with me:
 
 [<img align="left" alt="german-jongewaard.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
