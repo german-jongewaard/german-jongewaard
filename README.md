@@ -1,7 +1,7 @@
 ### Hi there, I'm Germán - [Jongewaard Dev][website] 👋
 
- [![Website](https://img.shields.io/website?label=german-jongewaard.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://german-jongewaard.github.io/ target="_blank")
-[![Twitter Follow](https://img.shields.io/twitter/follow/lunado?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lunado target="_blank")
+ [![Website](https://img.shields.io/website?label=german-jongewaard.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://german-jongewaard.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lunado?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lunado)
 
 ## I'm a Android Developer
 
@@ -44,8 +44,6 @@
 
 ---
  
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -53,13 +51,8 @@
 
 </details>
 
-[website]: https://german-jongewaard.github.io/
-[twitter]: https://twitter.com/lunado
-[youtube]: https://www.youtube.com/channel/UC6rJ3gCBxijS2F7IGEB2M_w
-[instagram]: https://www.instagram.com/jongewaard.dev/
-[linkedin]: https://www.linkedin.com/in/germanjongewaard/?trk=public-profile-join-page
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
+[website]: https://german-jongewaard.github.io/ target="_blank"
+[twitter]: https://twitter.com/lunado target="_blank"
+[youtube]: https://www.youtube.com/channel/UC6rJ3gCBxijS2F7IGEB2M_w target="_blank"
+[instagram]: https://www.instagram.com/jongewaard.dev/ target="_blank"
+[linkedin]: https://www.linkedin.com/in/germanjongewaard/?trk=public-profile-join-page target="_blank"
